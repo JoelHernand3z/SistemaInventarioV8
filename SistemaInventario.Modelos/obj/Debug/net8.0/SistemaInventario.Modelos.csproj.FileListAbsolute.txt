@@ -1,0 +1,16 @@
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.deps.json
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.dll
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.pdb
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Utilidades.dll
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.sourcelink.json
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaI.5E10B74F.Up2Date
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.dll
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\refint\SistemaInventario.Modelos.dll
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.pdb
+C:\Proyectos\SistemaIventarioV8\SistemaInventario.Modelos\obj\Debug\net8.0\ref\SistemaInventario.Modelos.dll

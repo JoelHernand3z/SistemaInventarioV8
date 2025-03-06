@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SistemaIventarioV8.props" />
+</Project>
