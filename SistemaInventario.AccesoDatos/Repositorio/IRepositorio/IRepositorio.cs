@@ -12,7 +12,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
 
         Task<T> Obtener(int id);
 
-        Task <IEnumerable<T>> ObtenerTodo(
+        Task <IEnumerable<T>> ObtenerTodos(
             Expression<Func<T, bool>> filtro = null,
             Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
             string incluirPropiedades = null,
@@ -27,7 +27,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
 
         Task Agregar(T entidad);
 
-        void Remove(T entidad);
+        void Remover(T entidad);
 
         void RemoverRango(IEnumerable<T> entidad);
     }

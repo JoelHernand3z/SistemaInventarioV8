@@ -29,7 +29,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         {
             return await dbSet.FindAsync(id); //select * from (solo por Id)
         }
-        public async Task<IEnumerable<T>> ObtenerTodo(Expression<Func<T, bool>> filtro = null, 
+        public async Task<IEnumerable<T>> ObtenerTodos(Expression<Func<T, bool>> filtro = null, 
             Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string incluirPropiedades = null, bool isTracking = true)
         {
             IQueryable<T> query = dbSet;
@@ -79,7 +79,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         }
 
 
-        public void Remove(T entidad)
+        public void Remover(T entidad)
         {
             dbSet.Remove(entidad);
         }

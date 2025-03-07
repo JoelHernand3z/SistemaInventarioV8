@@ -2249,7 +2249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 04:52:13 GMT"
+          "Value": "Fri, 07 Mar 2025 03:14:13 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2294,7 +2294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 04:52:13 GMT"
+          "Value": "Fri, 07 Mar 2025 03:14:13 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2465,6 +2465,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "js/bodega.dxlcew0i0v.js",
+      "AssetFile": "js/bodega.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dxlcew0i0v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE="
+        },
+        {
+          "Name": "label",
+          "Value": "js/bodega.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/bodega.js",
+      "AssetFile": "js/bodega.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE="
         }
       ]
     },

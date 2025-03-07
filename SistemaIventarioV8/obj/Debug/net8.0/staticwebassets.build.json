@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EncOuz2JV7Vm7fEBEKiltBlcMbZMxG0UHz6ceyGLCOA=",
+  "Hash": "mxGqMvaFh98l0LQ39u5o4iinJyogpPrEsabsOn+I0T8=",
   "Source": "SistemaIventarioV8",
   "BasePath": "_content/SistemaIventarioV8",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Proyectos\\SistemaIventarioV8\\SistemaIventarioV8\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaIventarioV8",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\SistemaIventarioV8\\SistemaIventarioV8\\wwwroot\\",
+      "BasePath": "_content/SistemaIventarioV8",
+      "RelativePath": "js/bodega#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dxlcew0i0v",
+      "Integrity": "/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "C:\\Proyectos\\SistemaIventarioV8\\SistemaIventarioV8\\wwwroot\\js\\site.js",
@@ -4965,6 +4986,88 @@
       ]
     },
     {
+      "Route": "js/bodega.dxlcew0i0v.js",
+      "AssetFile": "C:\\Proyectos\\SistemaIventarioV8\\SistemaIventarioV8\\wwwroot\\js\\bodega.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dxlcew0i0v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bodega.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE="
+        }
+      ]
+    },
+    {
+      "Route": "js/bodega.js",
+      "AssetFile": "C:\\Proyectos\\SistemaIventarioV8\\SistemaIventarioV8\\wwwroot\\js\\bodega.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/zffJaE864z931pPgjJqh80NqtI7ms7j02H5tT31JfE="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "C:\\Proyectos\\SistemaIventarioV8\\SistemaIventarioV8\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -9743,7 +9846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 04:52:13 GMT"
+          "Value": "Fri, 07 Mar 2025 03:14:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9780,7 +9883,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 04:52:13 GMT"
+          "Value": "Fri, 07 Mar 2025 03:14:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9825,7 +9928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 04:52:13 GMT"
+          "Value": "Fri, 07 Mar 2025 03:14:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9870,7 +9973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 04:52:13 GMT"
+          "Value": "Fri, 07 Mar 2025 03:14:13 GMT"
         },
         {
           "Name": "Cache-Control",
